@@ -167,7 +167,7 @@ class KPromise {
         
     // }
 
-    //对了可惜
+    //对了
     finally(callback) {
         return this.then(
             (res) => {
